@@ -8,7 +8,7 @@
 | Field | Details |
 |---|---|
 | **Candidate Number** | [IB Candidate Number] |
-| **Level** | [ ] SL &nbsp;&nbsp; [ ] HL |
+| **Level** | [X] SL &nbsp;&nbsp; [ ] HL |
 | **Academic Year** | 2025–2027 |
 
 ---
